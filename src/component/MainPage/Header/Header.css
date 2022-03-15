@@ -1,0 +1,165 @@
+body,h1,h2,h3,h4,h5,h6,p,a,span{
+    font-family: 'Poppins';
+}
+.header {
+    position: relative;
+    width: 1920px;
+    height: 1118px;
+    
+}
+.nav-item a{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 33px;
+    letter-spacing: 0.02em;
+}
+.headerScnd{
+    background-color: #FFF2E1;
+    height: 67%;
+}
+.shape{
+    position: absolute;
+    bottom: -53;
+    left: 0;
+}
+.shape path{
+    z-index: -1;
+}
+
+.btn1{
+    width: 160px;
+    height: 60px;
+    left: 1440px;
+    top: 71px;
+    background: #FFFFFF;
+    box-shadow: 0px 20px 24px rgba(0, 0, 0, 0.03);
+    border-radius: 80px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 33px;
+    letter-spacing: 0.02em;
+    border: none;
+}
+.btn2{
+    width: 160px;
+    height: 60px;
+    left: 1634px;
+    top: 71px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 33px;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+    background: #F48C06;
+    border-radius: 80px;
+    border: none;
+}
+.nav-icon{
+    width: 83px;
+    height: 83px;
+    left: 100px;
+    top: 60px;
+    background: #65DAFF;
+    border-radius: 6px;
+}
+.nav-heading{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 48px;
+    letter-spacing: 0.04em;
+    color: #113C49;
+}
+.header-heading{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 54px;
+    line-height: 81px;
+    margin-top: 120px!IMPORTANT;
+}
+.header-heading-scnd{
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 160%;
+    color: #464646;
+}
+.btn3{
+    width: 220px;
+    height: 80px;
+    left: 140px;
+    top: 659px;
+    background: #F48C06;
+    border-radius: 80px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    color: #FFFFFF;
+    border: none;
+}
+/* header_right */
+.header-right{
+    position: relative;
+}
+.assisted-student{
+    position: absolute;
+    width: 250px;
+    height: 100px;
+    left: -62px;
+    top: 224px;
+    background: rgba(255, 255, 255, 0.8);
+    backdrop-filter: blur(20px);
+    border-radius: 20px;
+}
+.sub-hed h6{
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 180%;
+    letter-spacing: 0.02em;
+    color: #595959;
+}
+.sub-hed p{
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 180%;
+    letter-spacing: 0.02em;
+    color: #545567;
+}
+.user-exp{
+    position: absolute;
+    width: 320px;
+    height: 135px;
+    left: -106px;
+    bottom: 139px;
+    background: rgba(255, 255, 255, 0.8);
+    backdrop-filter: blur(20px);
+    border-radius: 20px;
+}
+.btn4{
+    width: 130px;
+    height: 40px;
+    background: #D8587E;
+    border-radius: 80px;
+    border: none;
+    color: white;
+}
+
+.message{
+    position: absolute;
+    width: 280px;
+    height: 86px;
+    right: -49px;
+    bottom: 283px;
+    background: rgba(255, 255, 255, 0.8);
+    backdrop-filter: blur(20px);
+    border-radius: 20px;
+}
