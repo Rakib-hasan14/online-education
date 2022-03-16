@@ -1,0 +1,17 @@
+.skilline-content h1{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 44px;
+    line-height: 180%;
+    text-align: center;
+    color: #2F327D;
+}
+.skilline-content p{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 180%;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #696984;
+}

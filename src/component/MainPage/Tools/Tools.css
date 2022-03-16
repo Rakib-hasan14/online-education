@@ -1,0 +1,70 @@
+.tool-heading h6{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 180%;
+    color: #2F327D;
+}
+.tool-heading p{
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 180%;
+    text-align: center;
+    color: #696984;
+}
+.tool{
+    height: 430px;
+    left: 225px;
+    top: 1855px;
+    background: #FFFFFF;
+    box-shadow: 0px 10px 60px rgba(38, 45, 118, 0.08);
+    border-radius: 20px;
+}
+.tool-img{
+    position: relative;
+}
+.tool-img a{
+    position: absolute;
+    padding: 30px;
+    left: 111px;
+    top: -48px;
+    background: #5B72EE;
+    box-shadow: 0px 10px 40px rgba(54, 61, 136, 0.06);
+    border-radius: 50px;
+}
+.tool-img2 a{
+    position: absolute;
+    padding: 30px;
+    left: 111px;
+    top: -48px;
+    background: #F48C06;;
+    box-shadow: 0px 10px 40px rgba(54, 61, 136, 0.06);
+    border-radius: 50px;
+}
+.tool-img3 a{
+    position: absolute;
+    padding: 30px;
+    left: 128px;
+    top: -48px;
+    background: #29B9E7;
+    box-shadow: 0px 10px 40px rgba(54, 61, 136, 0.06);
+    border-radius: 50px;
+}
+.tool-heading{
+    bottom: 25px;
+    left: 2px;
+}
+.tool-heading h2{
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 45px;
+    text-align: center;
+    color: #2F327D;
+}
+.tool-heading p{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 180%;
+    text-align: center;
+    color: #696984;
+}
