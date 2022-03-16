@@ -1,0 +1,22 @@
+.trusted-com{
+    width: 1920px;
+}
+.google-com{
+    font-size: 39px;
+    color: #cfcfde;
+    margin-top: -8px;
+}
+.com-img img{
+    width: 77%;
+}
+.com-img2 img {
+    width: 78%;
+    margin-top: 8px;
+}
+.com-img3 img {
+    width: 89%;
+    margin-top: 2px;
+}
+.com-img4 img {
+    width: 48%;
+}
