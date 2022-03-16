@@ -3,7 +3,7 @@ body,h1,h2,h3,h4,h5,h6,p,a,span{
 }
 .header {
     position: relative;
-    width: 1920px;
+    width: 100%;
     height: 1118px;
     
 }
@@ -157,7 +157,7 @@ body,h1,h2,h3,h4,h5,h6,p,a,span{
     position: absolute;
     width: 280px;
     height: 86px;
-    right: -49px;
+    right: -37px;
     bottom: 283px;
     background: rgba(255, 255, 255, 0.8);
     backdrop-filter: blur(20px);

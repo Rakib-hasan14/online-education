@@ -53,8 +53,8 @@ const Header = () => {
                                 <div className='header-right'>
                                     <div className='assisted-student'>
                                         <div className="row">
-                                        <div className='col-md-4'>
-                                            <p><i class="fa-solid fa-floppy-disk"></i></p>
+                                        <div className='col-md-4 d-flex justify-content-center align-items-center'>
+                                            <img className="ms-2" src="https://i.ibb.co/CMcTD9q/Group-6.png``" alt="" />
                                         </div>
                                         <div className='col-md-8 mt-2'>
                                                <div className='sub-hed'>

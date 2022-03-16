@@ -1,0 +1,55 @@
+.f-background{
+    background: #252641;
+}
+.f-first h5{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 33px;
+    letter-spacing: 0.04em;
+    color: #FFFFFF;
+    display: inline;
+    margin-left: 30px;
+    padding-left: 30px;
+    border-left: 2px solid gray;
+}
+.subscribe h4{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 39px;
+    text-align: center;
+    letter-spacing: 0.04em;
+    color: #B2B3CF;
+}
+.subscribe input{
+    width: 400px;
+    height: 60px;
+    border: 1px solid #83839A;
+    box-sizing: border-box;
+    border-radius: 80px;
+    background: transparent;
+    padding-left: 50px;
+}
+.subscribe button{
+    width: 179px;
+    height: 60px;
+    background: linear-gradient(105.5deg, #545AE7 19.57%, #393FCF 78.85%);
+    border-radius: 60px;
+    color: white;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 33px;
+    margin-left: 15px;
+    border: none;
+}
+.footer-bottom p{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 33px;
+    text-align: center;
+    letter-spacing: 0.04em;
+    color: #B2B3CF;
+}
