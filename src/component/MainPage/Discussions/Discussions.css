@@ -1,0 +1,15 @@
+.discussion-left h1{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 160%;
+    color: #2F327D;
+}
+.discussion-left p{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 180%;
+    letter-spacing: 0.02em;
+    color: #696984;
+}
