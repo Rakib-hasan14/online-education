@@ -6,7 +6,7 @@ const Companies = () => {
         <div className='trusted-com pb-4'>
                 <h6 className='text-center mb-3'>Trusted by 5,000+ companies worldwide</h6>
                 <div className='container mt-5'>
-                <div className='row g-5'>
+                <div className='row gy-5'>
                     <div className='col-md-2 col-4'>
                       <h6 className='google-com'>Google</h6>
                     </div>

@@ -3,12 +3,12 @@ import './Assesments.css'
 
 const Assesments = () => {
     return (
-        <section className='cus-width my-5 py-5'>
+        <section className='cus-width my-5'>
             <div className='container'>
                 <div className='row d-flex align-items-center'>
                     <div className='col-md-6'>
                         <div>
-                            <img className='w-75' src="https://i.ibb.co/RyTc8Nd/Group-92.png" alt="" />
+                            <img className='w-100' src="https://i.ibb.co/RyTc8Nd/Group-92.png" alt="" />
                         </div>
                     </div>
                     <div className='col-md-6'>

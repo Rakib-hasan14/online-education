@@ -3,10 +3,10 @@ import './Management.css'
 
 const Management = () => {
     return (
-        <section className="management cus-width my-5 py-5">
+        <section className="management cus-width my-5">
             <div className="container">
-                <div className='row'>
-                    <div className='col-md-6'>
+                <div className='row gy-5'>
+                    <div className='col-xl-6'>
                         <div className='m-right'>
                             <div className='m-right-first'>
                                 <h1>Everything you can do in a physical classroom, <span className='cus-org'>you can do with Skilline</span></h1>
@@ -19,7 +19,7 @@ const Management = () => {
                             <a href="#">Learn more</a>
                         </div>
                     </div>
-                    <div className='col-md-6'>
+                    <div className='col-xl-6'>
                         <div className='m-left-content'>
                             <div className='m-left'>
                                 <div className='racth-first'>

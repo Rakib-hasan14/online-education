@@ -9,9 +9,9 @@ const Tools = () => {
                     <h6>All-in-one <span className='cus-org'>Clound Software</span></h6>
                     <p className='w-75 mx-auto my-3'>Skilline is one powerful online software suite that combines all the tools needed to run a successful school or office.</p>
                 </div>
-                <div className='all-tools my-5 py-5'>
-                    <div className="row mt-5">
-                        <div className='col-md-4 position-relative'>
+                <div className='all-tools my-5 pb-5'>
+                    <div className="row mt-5 gy-5">
+                        <div className='col-xl-4 position-relative'>
                             <div className='tool px-3'>
                                 <div className='tool-img'>
                                 <a href=""><img src="https://i.ibb.co/3RJzvr2/Vector-4.png" alt="Vector-4" border="0" /></a>
@@ -22,7 +22,7 @@ const Tools = () => {
                                 </div>
                             </div>
                         </div>
-                        <div className='col-md-4 position-relative'>
+                        <div className='col-xl-4 position-relative'>
                             <div className='tool px-3'>
                                 <div className='tool-img tool-img2'>
                                 <a href=""><img src="https://i.ibb.co/qyDVRDv/Vector-5.png" alt="Vector-5" border="0"/></a>
@@ -33,7 +33,7 @@ const Tools = () => {
                                 </div>
                             </div>
                         </div>
-                        <div className='col-md-4 position-relative'>
+                        <div className='col-xl-4 position-relative'>
                             <div className='tool px-3'>
                                 <div className='toll-img tool-img3'>
                                 <a href=""><img src="https://i.ibb.co/59mvjYs/Vector-6.png" alt="Vector-6" border="0"/></a>

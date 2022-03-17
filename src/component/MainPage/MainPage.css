@@ -1,0 +1,122 @@
+
+/* Resposive */
+@media only screen and (max-width:992px){
+    .headerScnd {
+      height: 98%;
+    }
+    .tool {
+      height: 329px ;
+      margin-bottom: 20px;
+    }
+    .skilline-content p {
+        font-size: 16px;
+    }
+    .skilline-bottom-heading {
+        left: 210px;
+    }
+    .polygon-sec {
+        left: 314px;
+        top: 192px;
+    }
+    .learner-right p {
+        font-size: 18px;
+    }
+    .learner-right h2 {
+        font-size: 32px;
+        margin-top: 25px;
+    }
+    .assesments-left h1 {
+        font-size: 35px;
+    }
+    .assesments-left p {
+        font-size: 18px;
+    }
+    .assesments-left p {
+        font-size: 18px;
+    }
+    .integration-left {
+        text-align: center;
+        margin-top: 20px;
+    }
+}
+
+  @media only screen and (max-width: 768px){
+    .headerScnd {
+        height: 110%;
+    }
+    .trusted-com {
+        margin-top: 36%;
+    }
+    .skilline-bottom-heading {
+        left: 112px;
+    }
+    .discussion-left p {
+        font-size: 20px;
+    }
+    .learner-right {
+        text-align: center;
+    }
+    .assesments-left {
+    text-align: center;
+    }
+    .discussion-left {
+        text-align: center;
+    }
+    .polygon-sec {
+        left: 236px;
+        top: 146px;
+    }
+  }
+@media only screen and (max-width: 576px){
+    .headerScnd {
+        height: 100%;
+    }
+    .m-left-img {
+        text-align: center;
+    }
+    .m-left-img img {
+        width: 72%!important;
+    }
+    .racth-first {
+        top: -25px;
+        left: 56px;
+    }
+    .racth-scnd {
+        bottom: -15px;
+        right: 60px;
+    }
+    .polygon-sec {
+        left: 249px;
+        top: 107px;
+    }
+    .subscribe button {
+        margin-top: 19px;
+    }
+    .header-heading {
+        margin-top: 0!important;
+    }
+}@media only screen and (max-width: 440px){
+    .tool-img a {
+        left: 51px;
+    }
+    .skilline-bottom-heading {
+        left: 43px;
+    }    
+    .racth-first {
+        top: -19px;
+        left: 34px;
+    }
+    .racth-scnd {
+        display: none;
+    }
+    .polygon-sec {
+        left: 175px;
+        top: 76px;
+    }
+    .n-m-r{
+        margin-left: 10px!important;
+    }
+    .subscribe input {
+        width: 300px;
+    }
+}

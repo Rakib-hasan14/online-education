@@ -3,12 +3,12 @@ import './Educator.css'
 
 const Educator = () => {
     return (
-        <section className='cus-width my-5 py-5'>
+        <section className='cus-width my-5'>
             <div className='container'>
                 <div className='row d-flex align-items-center'>
                     <div className='col-md-6'>
                         <div className='learner-right'>
-                            <h2 className='pe-5'><span className='cus-org'>Class Managements</span>Tools For Educators</h2>
+                            <h2 className='pe-5'><span className='cus-org'>Class Managements</span> Tools For Educators</h2>
                             <p>Class provides tools to help run and manage the class such as Class Roster, Attendance, and more. With the Gradebook, teachers can review and grade tests and quizzes in real-time.</p>
                         </div>
                     </div>

@@ -3,7 +3,7 @@ import './ToolsLearner.css'
 
 const ToolsLearner = () => {
     return (
-        <section className='cus-width my-5 py-5'>
+        <section className='cus-width my-5'>
             <div className='container'>
                 <div className='row d-flex align-items-center'>
                     <div className='col-md-6'>

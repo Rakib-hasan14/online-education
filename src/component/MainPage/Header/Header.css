@@ -7,12 +7,14 @@ body,h1,h2,h3,h4,h5,h6,p,a,span{
     height: 1118px;
     
 }
-.nav-item a{
+.nav-link{
     font-style: normal;
     font-weight: 400;
     font-size: 22px;
     line-height: 33px;
     letter-spacing: 0.02em;
+    margin-top: 8px;
+    margin-right: 10px;
 }
 .headerScnd{
     background-color: #FFF2E1;

@@ -7,38 +7,27 @@ const Header = () => {
             <div className='headerScnd'>
                 <div className='Navbar container pt-4'>
                 <nav class="navbar navbar-expand-lg navbar-light">
-                    <div class="container-fluid">
-                    <a class="navbar-brand" href="#">
-                        <div className='nav-icon'>
-                            
-                        <h1 className='nav-heading ms-3 pt-3'>Skilline</h1>
-                        </div>
-                    </a>
-                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                    </button>
-                        <div class="collapse navbar-collapse d-flex justify-content-end" id="navbarNav">
-                        <ul class="navbar-nav">
-                        <li class="nav-item">
-                        <a class="nav-link active me-3" aria-current="page" href="#">Home</a>
-                        </li>
-                        <li class="nav-item">
-                        <a class="nav-link me-3" href="#">Career</a>
-                        </li>
-                        <li class="nav-item">
-                        <a class="nav-link me-3" href="#">Blog</a>
-                        </li>
-                        <li class="nav-item">
-                        <a class="nav-link" href="#" tabindex="-1" aria-disabled="true">About us</a>
-                        </li>
-                        </ul>
-                        </div>
-                        </div>
-                        <div className='buttons w-50'>
-                            <button className='d-inline btn1 me-3'>Log in</button>
-                            <button className='d-inline btn2'>Sign up</button>
-                        </div>
-                </nav>
+  <div class="container-fluid">
+  <div className='nav-icon'>
+      <h1 className='nav-heading ms-3 pt-3'>Skilline</h1>
+   </div>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+      <div className='w-100 d-flex justify-content-end'>
+      <div class="navbar-nav">
+        <a class="nav-link active" aria-current="page" href="#">Home</a>
+        <a class="nav-link" href="#">Career</a>
+        <a class="nav-link" href="#">Blog</a>
+        <a class="nav-link" href="#" tabindex="-1">About us</a>
+        <button className='d-inline btn1 me-3 mb-2'>Log in</button>
+        <button className='d-inline btn2'>Sign up</button>
+      </div>
+      </div>
+    </div>
+  </div>
+</nav>
                 </div>
                 <div className='header-content mt-5'>
                     <div className='container'>
@@ -51,49 +40,7 @@ const Header = () => {
                             </div>
                             <div className='col-md-6 z-index'>
                                 <div className='header-right'>
-                                    <div className='assisted-student'>
-                                        <div className="row">
-                                        <div className='col-md-4 d-flex justify-content-center align-items-center'>
-                                            <img className="ms-2" src="https://i.ibb.co/CMcTD9q/Group-6.png``" alt="" />
-                                        </div>
-                                        <div className='col-md-8 mt-2'>
-                                               <div className='sub-hed'>
-                                               <h6>250k</h6>
-                                                <p>Assisted student</p>
-                                               </div>
-                                        </div>
-                                        </div>
-                                    </div>
-                                    <div className='user-exp'>
-                                        <div className="row">
-                                        <div className='col-md-4'>
-                                            <p><i class="fa-solid fa-floppy-disk"></i></p>
-                                        </div>
-                                        <div className='col-md-8 mt-2'>
-                                               <div className='sub-hed'>
-                                               <h6 className='mb-0'>User experiance class</h6>
-                                                <p className='mb-0'>Today at 9am</p>
-                                                <button className='btn4 '>Join now</button>
-                                               </div>
-                                        </div>
-                                        </div>
-                                    </div>
-                                    <div className='message'>
-                                        <div className="row">
-                                        <div className='col-md-4'>
-                                            <p><i class="fa-solid fa-floppy-disk"></i></p>
-                                        </div>
-                                        <div className='col-md-8 mt-2'>
-                                               <div className='sub-hed'>
-                                               <h6 className='mb-0'>250k</h6>
-                                                <p>Assisted student</p>
-                                               </div>
-                                        </div>
-                                        </div>
-                                    </div>
-                                    <div className='header-img w-100'>
-                                        <img className='w-100' src="https://i.ibb.co/LtLYySx/lovely-teenage-girl-with-curly-hair-posing-yellow-tshirt-min-1.png" alt="" />
-                                    </div>
+                                    <img className='w-100' src="https://i.ibb.co/WsVb1qs/header-pic.png" alt="" />
                                 </div>
                             </div>
                         </div>

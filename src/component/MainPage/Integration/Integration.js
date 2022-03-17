@@ -6,13 +6,13 @@ const Integration = () => {
         <section className='cus-width py-5 my-5'>
             <div className='container'>
                 <div className='row'>
-                    <div className='col-md-6'>
+                    <div className='col-xl-6'>
                         <div className='row'>
                             <div className='col-6'>
                                 <div>
                                     <img src="https://i.ibb.co/X8Dg6QF/image-2.png" alt="" />
                                 </div>
-                                <div className='ms-5 mt-5 ps-4'>
+                                <div className='ms-5 mt-5 ps-4 n-m-r'>
                                     <img src="https://i.ibb.co/47BKKhL/image-3.png" alt="" />
                                 </div>
                             </div>
@@ -20,13 +20,13 @@ const Integration = () => {
                                 <div className='mt-5'>
                                     <img src="https://i.ibb.co/4M3fRcF/image-5.png" alt="" />
                                 </div>
-                                <div className='ms-5 mt-5 ps-4'>
+                                <div className='ms-5 mt-5 n-m-r'>
                                     <img src="https://i.ibb.co/2cvbhsv/image-6.png" alt="" />
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div className='col-md-6 mt-3'>
+                    <div className='col-xl-6 mt-3'>
                         <div className='integration-left'>
                             <h6>------- INTEGRATION</h6>
                             <h1>200+ educational tools and platform <span className='cus-org'>integration</span></h1>

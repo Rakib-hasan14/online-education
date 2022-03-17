@@ -11,6 +11,7 @@ import Management from './Management/Management';
 import Skilline from './Skilline/Skilline';
 import Tools from './Tools/Tools';
 import ToolsLearner from './ToolsLearner/ToolsLearner';
+import './MainPage.css'
 
 const MainPage = () => {
     return (
